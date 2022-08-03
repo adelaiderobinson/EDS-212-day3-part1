@@ -50,6 +50,9 @@ class(my_matrix)
 ```
 
 ##Writing Commands through the terminal 
-gitadd -A (staging)
+gitadd -A (staging all the files)
 commit: git commit -m "my commit message"
 git push 
+git status check the status
+
+
